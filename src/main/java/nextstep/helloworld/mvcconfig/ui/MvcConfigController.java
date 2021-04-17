@@ -44,5 +44,4 @@ public class MvcConfigController {
         return ResponseEntity.ok().body(favoriteResponses);
     }
 
-
 }
